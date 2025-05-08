@@ -1,0 +1,42 @@
+# Essential external tools
+pip
+setuptools
+wheel
+
+# Easy logging for monitoring code execution
+loguru
+
+# HTTP requests made simple
+requests
+
+# Environment variables management
+python-dotenv
+
+# Text-to-speech
+pyttsx3
+
+# JupyterLab (optional, needed for notebooks)
+jupyterlab
+ipython
+jupyter
+ipykernel
+ipywidgets
+
+# Excel file reading and writing
+openpyxl
+xlsxwriter
+xlrd
+
+# Data storage, transformation, and orchestration
+duckdb
+sqlalchemy
+prefect>=2.0
+
+# Data analysis
+numpy
+pandas
+polars
+
+# Visualization
+matplotlib
+seaborn
