@@ -1,5 +1,17 @@
+# Python cache files
 __pycache__/
+*.pyc
+
+# Python virtual environments
 .venv/
 .env/
-*.pyc
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
 
